@@ -1,0 +1,632 @@
+\begin{thebibliography}{77}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abdulhai et~al.(1999)Abdulhai, Porwal, and Recker]{abdulhai1999short}
+Baher Abdulhai, Himanshu Porwal, and Will Recker.
+\newblock Short term freeway traffic flow prediction using
+  genetically-optimized time-delay-based neural networks.
+\newblock 1999.
+
+\bibitem[Ahmed and Cook(1979)]{ARIMA}
+M.~S. Ahmed and A.~R. Cook.
+\newblock Analysis of freeway traffic time-series data by using box-jenkins
+  techniques.
+\newblock \emph{Transportation Research Record}, \penalty0 (no. 722):\penalty0
+  pp.1--9, 1979.
+\newblock URL
+  \url{http://onlinepubs.trb.org/Onlinepubs/trr/1979/722/722-001.pdf}.
+
+\bibitem[Asif et~al.(2014)Asif, Dauwels, Goh, Oran, Fathi, Xu, Dhanya,
+  Mitrovic, and Jaillet]{asif2014spatiotemporal}
+Muhammad~Tayyab Asif, Justin Dauwels, Chong~Yang Goh, Ali Oran, Esmail Fathi,
+  Muye Xu, Menoth~Mohan Dhanya, Nikola Mitrovic, and Patrick Jaillet.
+\newblock Spatiotemporal patterns in large-scale traffic speed prediction.
+\newblock \emph{IEEE Transactions on Intelligent Transportation Systems},
+  15\penalty0 (2):\penalty0 794--804, 2014.
+\newblock URL \url{https://ieeexplore.ieee.org/abstract/document/6678316/}.
+
+\bibitem[Billy M.~Williams and Lester A.~Hoel(2003)]{SARIMA}
+M.ASCE Billy M.~Williams and F.ASCE Lester A.~Hoel.
+\newblock Modeling and forecasting vehicular traffic flow as a seasonal arima
+  process: Theoretical basis and empirical results.
+\newblock \emph{J.Transport. Eng.}, 2003.
+\newblock URL
+  \url{https://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-947X%282003%29129%3A6%28664%29}.
+
+\bibitem[Castillo et~al.(2008)Castillo, Men{\'e}ndez, and
+  S{\'a}nchez-Cambronero]{castillo2008predicting}
+Enrique Castillo, Jos{\'e}~Mar{\'\i}a Men{\'e}ndez, and Santos
+  S{\'a}nchez-Cambronero.
+\newblock Predicting traffic flow using bayesian networks.
+\newblock \emph{Transportation Research Part B: Methodological}, 42\penalty0
+  (5):\penalty0 482--509, 2008.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0191261507001300}.
+
+\bibitem[Cha et~al.(2017{\natexlab{a}})Cha, Choi, and
+  B{\"u}y{\"u}k{\"o}zt{\"u}rk]{cha2017deep}
+Young-Jin Cha, Wooram Choi, and Oral B{\"u}y{\"u}k{\"o}zt{\"u}rk.
+\newblock Deep learning-based crack damage detection using convolutional neural
+  networks.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering},
+  32\penalty0 (5):\penalty0 361--378, 2017{\natexlab{a}}.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12263}.
+
+\bibitem[Cha et~al.(2017{\natexlab{b}})Cha, Choi, Suh, Mahmoudkhani, and
+  B{\"u}y{\"u}k{\"o}zt{\"u}rk]{cha2017autonomous}
+Young-Jin Cha, Wooram Choi, Gahyun Suh, Sadegh Mahmoudkhani, and Oral
+  B{\"u}y{\"u}k{\"o}zt{\"u}rk.
+\newblock Autonomous structural visual inspection using region-based deep
+  learning for detecting multiple damage types.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering},
+  2017{\natexlab{b}}.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12334}.
+
+\bibitem[Chandra and Al-Deek(2009)]{chandra2009predictions}
+Srinivasa~Ravi Chandra and Haitham Al-Deek.
+\newblock Predictions of freeway traffic speeds and volumes using vector
+  autoregressive models.
+\newblock \emph{Journal of Intelligent Transportation Systems}, 13\penalty0
+  (2):\penalty0 53--72, 2009.
+\newblock URL
+  \url{https://www.tandfonline.com/doi/abs/10.1080/15472450902858368}.
+
+\bibitem[Chen and Grant-Muller(2001)]{chen2001use}
+Haibo Chen and Susan Grant-Muller.
+\newblock Use of sequential learning for short-term traffic flow forecasting.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  9\penalty0 (5):\penalty0 319--336, 2001.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0968090X00000395}.
+
+\bibitem[Chen and Englund(2016)]{7244203}
+L.~Chen and C.~Englund.
+\newblock Cooperative intersection management: A survey.
+\newblock \emph{IEEE Transactions on Intelligent Transportation Systems},
+  17\penalty0 (2):\penalty0 570--586, Feb 2016.
+\newblock ISSN 1524-9050.
+\newblock \doi{10.1109/TITS.2015.2471812}.
+\newblock URL
+  \url{https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7244203}.
+
+\bibitem[Chen et~al.(2018)Chen, An, Li, Fu, Xie, Bhuiyan, and
+  Li]{chen2018novel}
+Weihong Chen, Jiyao An, Renfa Li, Li~Fu, Guoqi Xie, Md~Zakirul~Alam Bhuiyan,
+  and Keqin Li.
+\newblock A novel fuzzy deep-learning approach to traffic flow prediction with
+  uncertain spatial--temporal data features.
+\newblock \emph{Future Generation Computer Systems}, 2018.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0167739X18307398}.
+
+\bibitem[Cheng et~al.(2012)Cheng, Haworth, and Wang]{cheng2012spatio}
+Tao Cheng, James Haworth, and Jiaqiu Wang.
+\newblock Spatio-temporal autocorrelation of road network data.
+\newblock \emph{Journal of Geographical Systems}, 14\penalty0 (4):\penalty0
+  389--413, 2012.
+
+\bibitem[Chien et~al.(2003)Chien, Liu, and Ozbay]{chien2003predicting}
+Steven Chien, Xiaobo Liu, and Kaan Ozbay.
+\newblock Predicting travel times for the south jersey real-time motorist
+  information system.
+\newblock \emph{Transportation Research Record: Journal of the Transportation
+  Research Board}, \penalty0 (1855):\penalty0 32--40, 2003.
+\newblock URL \url{https://trrjournalonline.trb.org/doi/abs/10.3141/1855-04}.
+
+\bibitem[Chien and Kuchipudi(2003)]{chien2003dynamic}
+Steven I-Jy Chien and Chandra~Mouly Kuchipudi.
+\newblock Dynamic travel time prediction with real-time and historic data.
+\newblock \emph{Journal of transportation engineering}, 129\penalty0
+  (6):\penalty0 608--616, 2003.
+\newblock URL
+  \url{https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-947X(2003)129:6(608)}.
+
+\bibitem[Clark et~al.(1993)Clark, Dougherty, and Kirby]{clark1993use}
+Stepen~D Clark, Mark~S Dougherty, and Howard~R Kirby.
+\newblock The use of neural networks and time series models for short term
+  traffic forecasting: a comparative study.
+\newblock In \emph{TRANSPORTATION PLANNING METHODS. PROCEEDINGS OF SEMINAR D
+  HELD AT THE PTRC EUROPEAN TRANSPORT, HIGHWAYS AND PLANNING 21ST SUMMER ANNUAL
+  MEETING (SEPTEMBER 13-17, 1993), UMIST. VOLUME P363}, 1993.
+
+\bibitem[Davis and Nihan(1991)]{k-NN}
+G.~A. Davis and N.~L. Nihan.
+\newblock Nonparametric regression and short-term freeway traffic forecasting.
+\newblock \emph{Journal of Transportation Engineering}, vol.117\penalty0
+  (no.2):\penalty0 pp.178--188, 1991.
+\newblock URL
+  \url{https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-947X(1991)117:2(178)}.
+
+\bibitem[Dunne and Ghosh(2011)]{dunne2011regime}
+Stephen Dunne and Bidisha Ghosh.
+\newblock Regime-based short-term multivariate traffic condition forecasting
+  algorithm.
+\newblock \emph{Journal of Transportation Engineering}, 138\penalty0
+  (4):\penalty0 455--466, 2011.
+
+\bibitem[Friedman(2001)]{GB}
+J.~H. Friedman.
+\newblock Greedy function approximation: A gradient boosting machine.
+\newblock \emph{The Annals of Statistics}, vol.29\penalty0 (no.5):\penalty0 pp.
+  1189–1232, 2001.
+\newblock URL \url{http://www.jstor.org/stable/2699986}.
+
+\bibitem[Fu et~al.(2016)Fu, Zhang, and Li]{gruTraffic}
+Rui Fu, Zuo Zhang, and Li~Li.
+\newblock Using lstm and gru neural network methods for traffic flow
+  prediction.
+\newblock In \emph{Chinese Association of Automation (YAC), Youth Academic
+  Annual Conference of}, pages 324--328. IEEE, 2016.
+\newblock URL \url{https://ieeexplore.ieee.org/abstract/document/7804912/}.
+
+\bibitem[Gang~Song(2017)]{ELM}
+Qun~Dai Gang~Song.
+\newblock A novel double deep elms ensemble system for time series forecasting.
+\newblock \emph{Knowle dge-Based Systems}, 2017.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0950705117303295}.
+
+\bibitem[Gao and Mosalam(2018)]{gaodeep}
+Yuqing Gao and Khalid~M Mosalam.
+\newblock Deep transfer learning for image-based structural damage recognition.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering}, April
+  2018.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12363}.
+
+\bibitem[Ghosh et~al.(2010)Ghosh, Basu, and O’Mahony]{ghosh2010random}
+Bidisha Ghosh, Biswajit Basu, and Margaret O’Mahony.
+\newblock Random process model for urban traffic flow using a wavelet-bayesian
+  hierarchical technique.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering},
+  25\penalty0 (8):\penalty0 613--624, 2010.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8667.2010.00681.x}.
+
+\bibitem[Guo et~al.(2014)Guo, Huang, and Williams]{guo2014adaptive}
+Jianhua Guo, Wei Huang, and Billy~M Williams.
+\newblock Adaptive kalman filter approach for stochastic short-term traffic
+  flow rate prediction and uncertainty quantification.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  43:\penalty0 50--64, 2014.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0968090X14000382}.
+
+\bibitem[Hashemi and Abdelghany(2018)]{hashemiend}
+Hossein Hashemi and Khaled Abdelghany.
+\newblock End-to-end deep learning methodology for real-time traffic network
+  management.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering}, May 2018.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12376}.
+
+\bibitem[He and Sun(2015)]{he2015convolutional}
+Kaiming He and Jian Sun.
+\newblock Convolutional neural networks at constrained time cost.
+\newblock In \emph{2015 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, pages 5353--5360. IEEE, 2015.
+
+\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{DRN}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778, 2016.
+\newblock URL
+  \url{http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf}.
+
+\bibitem[Hochreiter(1991)]{RNNraw}
+Sepp Hochreiter.
+\newblock Untersuchungen zu dynamischen neuronalen netzen.
+\newblock \emph{Diploma, Technische Universit{\"a}t M{\"u}nchen}, 91:\penalty0
+  1, 1991.
+\newblock URL \url{https://link.springer.com/article/10.1007%2FBF03227308}.
+
+\bibitem[Hornik et~al.(1989)Hornik, Stinchcombe, and
+  White]{hornik1989multilayer}
+Kurt Hornik, Maxwell Stinchcombe, and Halbert White.
+\newblock Multilayer feedforward networks are universal approximators.
+\newblock \emph{Neural networks}, 2\penalty0 (5):\penalty0 359--366, 1989.
+
+\bibitem[Huang et~al.(2014)Huang, Song, Hong, and Xie]{huang2014deep}
+Wenhao Huang, Guojie Song, Haikun Hong, and Kunqing Xie.
+\newblock Deep architecture for traffic flow prediction: Deep belief networks
+  with multitask learning.
+\newblock \emph{IEEE Trans. Intelligent Transportation Systems}, 15\penalty0
+  (5):\penalty0 2191--2201, 2014.
+\newblock URL \url{https://ieeexplore.ieee.org/abstract/document/6786503/}.
+
+\bibitem[Jin et~al.(2013)Jin, Wang, Xu, and Ma]{Jin2013}
+Sheng Jin, Dian-hai Wang, Cheng Xu, and Dong-fang Ma.
+\newblock Short-term traffic safety forecasting using gaussian mixture model
+  and kalman filter.
+\newblock \emph{Journal of Zhejiang University SCIENCE A}, 14\penalty0
+  (4):\penalty0 231--243, Apr 2013.
+\newblock ISSN 1862-1775.
+\newblock \doi{10.1631/jzus.A1200218}.
+\newblock URL \url{https://doi.org/10.1631/jzus.A1200218}.
+
+\bibitem[Karlaftis and Vlahogianni(2011)]{karlaftis2011statistical}
+Matthew~G Karlaftis and Eleni~I Vlahogianni.
+\newblock Statistical methods versus neural networks in transportation
+  research: Differences, similarities and some insights.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  19\penalty0 (3):\penalty0 387--399, 2011.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0968090X10001610}.
+
+\bibitem[Klaus~Greff(2017)]{lstmcomparison}
+Jan Koutnık Bas R. Steunebrink Jurgen~Schmidhuber Klaus~Greff, Rupesh
+  K.~Srivastava.
+\newblock Lstm: A search space odyssey.
+\newblock \emph{IEEE Transactions on Neural Networks and Learning Systems},
+  vol. 28:\penalty0 pp. 2222 -- 2232, 2017.
+\newblock URL \url{https://ieeexplore.ieee.org/document/7508408/}.
+
+\bibitem[Kyunghyun~Cho and Bengio(2014)]{RNN}
+Caglar Gulcehre Fethi Bougares Holger~Schwenk Kyunghyun~Cho, Bart
+  van~Merrienboer and Yoshua Bengio.
+\newblock Learning phrase representations using rnn encoder-decoder for
+  statistical machine translation.
+\newblock \emph{arXiv preprint}, arXiv:1406.1078, 2014.
+\newblock URL \url{http://arxiv.org/abs/1406.1078}.
+
+\bibitem[L.~Li and Zhang(2015)]{MVLR}
+X.~Su L.~Li and Y.~Zhang.
+\newblock Trend modeling for traffic time series analysis : An integrated
+  study.
+\newblock \emph{IEEE Transactions on Intelligent Transportation Systems}, vol.
+  16\penalty0 (no. 6):\penalty0 pp. 1–10, 2015.
+\newblock URL \url{https://ieeexplore.ieee.org/abstract/document/7180371/}.
+
+\bibitem[Lei and Zhang(2017)]{lei2017training}
+Tao Lei and Yu~Zhang.
+\newblock Training rnns as fast as cnns.
+\newblock \emph{arXiv preprint arXiv:1709.02755}, 2017.
+\newblock URL \url{https://arxiv.org/abs/1709.02755}.
+
+\bibitem[Leshem and Ritov(2007)]{RF}
+G.~Leshem and Y.~Ritov.
+\newblock Traffic flow prediction using adaboost algorithm with random forests
+  as a weak learner.
+\newblock \emph{International Journal of Mathematical, Computational, Physical,
+  Electrical and Computer Engineering}, vol. 1\penalty0 (no.1):\penalty0
+  pp.2--7, 2007.
+\newblock URL
+  \url{https://pdfs.semanticscholar.org/d013/049dc55f011651cbc6c4ba27097be5e0bfad.pdf}.
+
+\bibitem[Li and Lu(2009)]{DBLP:conf/isnn/LiL09b}
+Ruimin Li and Huapu Lu.
+\newblock Combined neural network approach for short-term urban freeway traffic
+  flow prediction.
+\newblock In \emph{Advances in Neural Networks - {ISNN} 2009, 6th International
+  Symposium on Neural Networks, {ISNN} 2009, Wuhan, China, May 26-29, 2009,
+  Proceedings, Part {III}}, pages 1017--1025, 2009.
+\newblock \doi{10.1007/978-3-642-01513-7\_112}.
+\newblock URL \url{https://doi.org/10.1007/978-3-642-01513-7\_112}.
+
+\bibitem[Li and Rose(2011)]{li2011incorporating}
+Ruimin Li and Geoffrey Rose.
+\newblock Incorporating uncertainty into short-term travel time predictions.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  19\penalty0 (6):\penalty0 1006--1018, 2011.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0968090X11000842}.
+
+\bibitem[Li et~al.(2018)Li, Yuan, Zhang, and Yuan]{li2018unified}
+Ruoxing Li, Yachao Yuan, Wei Zhang, and Yali Yuan.
+\newblock Unified vision-based methodology for simultaneous concrete defect
+  detection and geolocalization.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering}, 2018.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12351}.
+
+\bibitem[Lin et~al.(2017)Lin, Nie, and Ma]{lin2017structural}
+Yi-zhou Lin, Zhen-hua Nie, and Hong-wei Ma.
+\newblock Structural damage detection with automatic feature-extraction through
+  deep learning.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering},
+  32\penalty0 (12):\penalty0 1025--1046, 2017.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12313}.
+
+\bibitem[Liu et~al.(2018)Liu, Wang, and Zhu]{liu2018short}
+Qingchao Liu, Bochen Wang, and Yuquan Zhu.
+\newblock Short-term traffic speed forecasting based on attention convolutional
+  neural network for arterials.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering},
+  33\penalty0 (11):\penalty0 999--1016, 2018.
+
+\bibitem[Lv et~al.(2015)Lv, Duan, Kang, Li, Wang, et~al.]{lv2015traffic}
+Yisheng Lv, Yanjie Duan, Wenwen Kang, Zhengxi Li, Fei-Yue Wang, et~al.
+\newblock Traffic flow prediction with big data: A deep learning approach.
+\newblock \emph{IEEE Trans. Intelligent Transportation Systems}, 16\penalty0
+  (2):\penalty0 865--873, 2015.
+\newblock URL
+  \url{https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6894591}.
+
+\bibitem[Ma et~al.(2015)Ma, Tao, Wang, Yu, and Wang]{ma2015long}
+Xiaolei Ma, Zhimin Tao, Yinhai Wang, Haiyang Yu, and Yunpeng Wang.
+\newblock Long short-term memory neural network for traffic speed prediction
+  using remote microwave sensor data.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  54:\penalty0 187--197, 2015.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0968090X15000935}.
+
+\bibitem[Maeda et~al.(2018)Maeda, Sekimoto, Seto, Kashiyama, and
+  Omata]{maedaroad}
+Hiroya Maeda, Yoshihide Sekimoto, Toshikazu Seto, Takehiro Kashiyama, and
+  Hiroshi Omata.
+\newblock Road damage detection and classification using deep neural networks
+  with smartphone images.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering}, June
+  2018.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/10.1111/mice.12387}.
+
+\bibitem[Nabian and Meidani(2018)]{nabian2018deep}
+Mohammad~Amin Nabian and Hadi Meidani.
+\newblock Deep learning for accelerated seismic reliability analysis of
+  transportation networks.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering},
+  33\penalty0 (6):\penalty0 443--458, 2018.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12359}.
+
+\bibitem[Petridis et~al.(2001)Petridis, Kehagias, Petrou, Bakirtzis, Kiartzis,
+  Panagiotou, and Maslaris]{petridis2001bayesian}
+Vassilios Petridis, Athanasios Kehagias, Loukas Petrou, A~Bakirtzis,
+  S~Kiartzis, H~Panagiotou, and N~Maslaris.
+\newblock A bayesian multiple models combination method for time series
+  prediction.
+\newblock \emph{Journal of intelligent and robotic systems}, 31\penalty0
+  (1-3):\penalty0 69--89, 2001.
+\newblock URL \url{https://link.springer.com/article/10.1023/A:1012061814242}.
+
+\bibitem[Sepp~Hochreiter(1997)]{LSTM}
+Jurgen~Schmidhuber Sepp~Hochreiter.
+\newblock Long short-term memory.
+\newblock \emph{Neural Computation}, 1997.
+\newblock URL
+  \url{https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735}.
+
+\bibitem[Smith et~al.(2002)Smith, Williams, and Oswald]{smith2002comparison}
+Brian~L Smith, Billy~M Williams, and R~Keith Oswald.
+\newblock Comparison of parametric and nonparametric models for traffic flow
+  forecasting.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  10\penalty0 (4):\penalty0 303--321, 2002.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0968090X02000098}.
+
+\bibitem[Song et~al.(2018)Song, Li, Ma, Wang, Qu, and Wang]{songmatch}
+Xiang Song, Wenjing Li, Dongfang Ma, Dianhai Wang, Licheng Qu, and Yinhai Wang.
+\newblock A match-then-predict method for daily traffic flow forecasting based
+  on group method of data handling.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering}, June
+  2018.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12381}.
+
+\bibitem[Srivastava et~al.(2015)Srivastava, Greff, and
+  Schmidhuber]{srivastava2015highway}
+Rupesh~Kumar Srivastava, Klaus Greff, and J{\"u}rgen Schmidhuber.
+\newblock Highway networks.
+\newblock \emph{arXiv preprint arXiv:1505.00387}, 2015.
+
+\bibitem[Stathopoulos et~al.(2008)Stathopoulos, Dimitriou, and
+  Tsekeris]{stathopoulos2008fuzzy}
+Antony Stathopoulos, Loukas Dimitriou, and Theodore Tsekeris.
+\newblock Fuzzy modeling approach for combined forecasting of urban traffic
+  flow.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering},
+  23\penalty0 (7):\penalty0 521--535, 2008.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8667.2008.00558.x}.
+
+\bibitem[Sun et~al.(2006{\natexlab{a}})Sun, Zhang, and Yu]{1603558}
+Shiliang Sun, Changshui Zhang, and Guoqiang Yu.
+\newblock A bayesian network approach to traffic flow forecasting.
+\newblock \emph{IEEE Transactions on Intelligent Transportation Systems},
+  7\penalty0 (1):\penalty0 124--132, March 2006{\natexlab{a}}.
+\newblock ISSN 1524-9050.
+\newblock \doi{10.1109/TITS.2006.869623}.
+\newblock URL
+  \url{https://www.researchgate.net/profile/Changshui_Zhang2/publication/3427947_A_Bayesian_Network_Approach_to_Traffic_Flow_Forecasting/links/55b1ea2208aed621ddfd6e22.pdf}.
+
+\bibitem[Sun et~al.(2006{\natexlab{b}})Sun, Zhang, and Yu]{sun2006bayesian}
+Shiliang Sun, Changshui Zhang, and Guoqiang Yu.
+\newblock A bayesian network approach to traffic flow forecasting.
+\newblock \emph{IEEE Transactions on intelligent transportation systems},
+  7\penalty0 (1):\penalty0 124--132, 2006{\natexlab{b}}.
+\newblock URL
+  \url{https://www.researchgate.net/profile/Changshui_Zhang2/publication/3427947_A_Bayesian_Network_Approach_to_Traffic_Flow_Forecasting/links/55b1ea2208aed621ddfd6e22.pdf}.
+
+\bibitem[Tan et~al.(2013)Tan, Feng, Feng, Wang, Zhang, and Li]{tan2013tensor}
+Huachun Tan, Guangdong Feng, Jianshuai Feng, Wuhong Wang, Yu-Jin Zhang, and
+  Feng Li.
+\newblock A tensor-based method for missing traffic data completion.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  28:\penalty0 15--27, 2013.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0968090X12001532}.
+
+\bibitem[Tan et~al.(2016)Tan, Xuan, Wu, Zhong, and Ran]{tan2016comparison}
+Huachun Tan, Xuan Xuan, Yuankai Wu, Zhiyu Zhong, and Bin Ran.
+\newblock A comparison of traffic flow prediction methods based on dbn.
+\newblock In \emph{CICTP 2016}, pages 273--283. ASCE, 2016.
+\newblock URL \url{https://ascelibrary.org/doi/abs/10.1061/9780784479896.026}.
+
+\bibitem[Tan and Li(2018)]{tan2018dynamic}
+Zeren Tan and Ruimin Li.
+\newblock A dynamic model for traffic flow prediction using improved drn.
+\newblock \emph{arXiv preprint arXiv:1805.00868}, 2018.
+
+\bibitem[Tian and Pan(2015)]{LSTMtraffic}
+Y.~Tian and L.~Pan.
+\newblock Predicting short-term traffic flow by long short-term memory
+  recurrent neural network.
+\newblock \emph{2015 IEEE International Conference on Smart
+  City/SocialCom/SustainCom (SmartCity)}, page pp. 153–158, 2015.
+\newblock URL \url{https://ieeexplore.ieee.org/abstract/document/7463717/}.
+
+\bibitem[Van~Lint(2008)]{van2008online}
+JWC Van~Lint.
+\newblock Online learning solutions for freeway travel time prediction.
+\newblock \emph{IEEE Transactions on Intelligent Transportation Systems},
+  9\penalty0 (1):\penalty0 38--47, 2008.
+\newblock URL \url{https://ieeexplore.ieee.org/abstract/document/4459097/}.
+
+\bibitem[Vlahogianni et~al.(2004)Vlahogianni, Golias, and
+  Karlaftis]{vlahogianni2004short}
+Eleni~I Vlahogianni, John~C Golias, and Matthew~G Karlaftis.
+\newblock Short-term traffic forecasting: Overview of objectives and methods.
+\newblock \emph{Transport reviews}, 24\penalty0 (5):\penalty0 533--557, 2004.
+
+\bibitem[Vlahogianni et~al.(2008)Vlahogianni, Karlaftis, and
+  Golias]{vlahogianni2008temporal}
+Eleni~I Vlahogianni, Matthew~G Karlaftis, and John~C Golias.
+\newblock Temporal evolution of short-term urban traffic flow: a nonlinear
+  dynamics approach.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering},
+  23\penalty0 (7):\penalty0 536--548, 2008.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8667.2008.00554.x}.
+
+\bibitem[Wang et~al.(2014)Wang, Deng, and Guo]{wang2014new}
+Jian Wang, Wei Deng, and Yuntao Guo.
+\newblock New bayesian combination method for short-term traffic flow
+  forecasting.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  43:\penalty0 79--94, 2014.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0968090X14000370}.
+
+\bibitem[Wang et~al.(2006)Wang, Papageorgiou, and Messmer]{wang2006renaissance}
+Yibing Wang, Markos Papageorgiou, and Albert Messmer.
+\newblock Renaissance--a unified macroscopic model-based approach to real-time
+  freeway network traffic surveillance.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  14\penalty0 (3):\penalty0 190--212, 2006.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0968090X06000398}.
+
+\bibitem[Williams(2001)]{williams2001multivariate}
+Billy Williams.
+\newblock Multivariate vehicular traffic flow prediction: evaluation of arimax
+  modeling.
+\newblock \emph{Transportation Research Record: Journal of the Transportation
+  Research Board}, \penalty0 (1776):\penalty0 194--200, 2001.
+\newblock URL \url{https://trrjournalonline.trb.org/doi/abs/10.3141/1776-25}.
+
+\bibitem[Williams and Hoel(2003)]{williams2003modeling}
+Billy~M Williams and Lester~A Hoel.
+\newblock Modeling and forecasting vehicular traffic flow as a seasonal arima
+  process: Theoretical basis and empirical results.
+\newblock \emph{Journal of transportation engineering}, 129\penalty0
+  (6):\penalty0 664--672, 2003.
+\newblock URL
+  \url{https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-947X(2003)129:6(664)}.
+
+\bibitem[Wu et~al.(2004)Wu, Ho, and Lee]{wu2004travel}
+Chun-Hsin Wu, Jan-Ming Ho, and Der-Tsai Lee.
+\newblock Travel-time prediction with support vector regression.
+\newblock \emph{IEEE transactions on intelligent transportation systems},
+  5\penalty0 (4):\penalty0 276--281, 2004.
+\newblock URL \url{https://ieeexplore.ieee.org/abstract/document/1364002/}.
+
+\bibitem[Wu et~al.(2017)Wu, Tan, Li, Li, and He]{wu2017robust}
+Yuankai Wu, Huachun Tan, Yong Li, Feng Li, and Hongwen He.
+\newblock Robust tensor decomposition based on cauchy distribution and its
+  applications.
+\newblock \emph{Neurocomputing}, 223:\penalty0 107--117, 2017.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0925231216312218}.
+
+\bibitem[Wu et~al.(2018)Wu, Tan, Qin, Ran, and Jiang]{wu2018hybrid}
+Yuankai Wu, Huachun Tan, Lingqiao Qin, Bin Ran, and Zhuxi Jiang.
+\newblock A hybrid deep learning based traffic flow prediction method and its
+  understanding.
+\newblock \emph{Transportation Research Part C: Emerging Technologies},
+  90:\penalty0 166--180, 2018.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0968090X18302651}.
+
+\bibitem[X.~Jin and Yao(2007)]{SVR}
+Y.~Zhang X.~Jin and D.~Yao.
+\newblock Simultaneously prediction of network traffic flow based on pca-svr.
+\newblock \emph{Advances in Neural Networks ISNN}, vol. 4492\penalty0 (no. PART
+  2):\penalty0 pp. 1022–1031, 2007.
+\newblock URL
+  \url{https://link.springer.com/chapter/10.1007%2F978-3-540-72393-6_121}.
+
+\bibitem[Xia et~al.(2012)Xia, Huang, and Guo]{xia2012clustering}
+Jingxin Xia, Wei Huang, and Jianhua Guo.
+\newblock A clustering approach to online freeway traffic state identification
+  using its data.
+\newblock \emph{KSCE Journal of Civil Engineering}, 16\penalty0 (3):\penalty0
+  426--432, 2012.
+
+\bibitem[Xiaochuan~Sun(2017)]{DBEN}
+Qun Li Yue Huang Yingqi~Li Xiaochuan~Sun, Tao~Li.
+\newblock Deep belief echo-state network and its application to time series
+  prediction.
+\newblock \emph{Knowle dge-Base d Systems}, 2017.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0950705117302459}.
+
+\bibitem[Xingyuan~Dai(2017)]{deeptrend}
+Yilun~Lin Xingyuan~Dai, Rui~Fu.
+\newblock Deeptrend: A deep hierarchical neural network for traffic flow
+  prediction.
+\newblock \emph{arXiv preprint arXiv:1707.03213}, 2017.
+\newblock URL \url{https://arxiv.org/abs/1707.03213}.
+
+\bibitem[Y.~Lv and Wang(2014)]{SAE}
+W.~Kang Z.~Li Y.~Lv, Y.~Duan and F.-Y. Wang.
+\newblock Traffic flow prediction with big data: A deep learning approach.
+\newblock \emph{IEEE Transactions on Intelligent Transportation Systems}, vol.
+  16\penalty0 (no. 2):\penalty0 pp. 1–9, 2014.
+\newblock URL \url{https://ieeexplore.ieee.org/abstract/document/6894591/}.
+
+\bibitem[Yuan et~al.(2011)Yuan, Zheng, Xie, and Sun]{yuan2011driving}
+Jing Yuan, Yu~Zheng, Xing Xie, and Guangzhong Sun.
+\newblock Driving with knowledge from the physical world.
+\newblock In \emph{Proceedings of the 17th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 316--324. ACM, 2011.
+\newblock URL \url{https://dl.acm.org/citation.cfm?id=2020462}.
+
+\bibitem[Zhang et~al.(2017)Zhang, Wang, Li, Yang, Dai, Peng, Fei, Liu, Li, and
+  Chen]{zhang2017automated}
+Allen Zhang, Kelvin~CP Wang, Baoxian Li, Enhui Yang, Xianxing Dai, Yi~Peng, Yue
+  Fei, Yang Liu, Joshua~Q Li, and Cheng Chen.
+\newblock Automated pixel-level pavement crack detection on 3d asphalt surfaces
+  using a deep-learning network.
+\newblock \emph{Computer-Aided Civil and Infrastructure Engineering},
+  32\penalty0 (10):\penalty0 805--819, 2017.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12297}.
+
+\bibitem[Zhang and Kabuka(2018)]{zhang2018combining}
+Da~Zhang and Mansur~R Kabuka.
+\newblock Combining weather condition data to predict traffic flow: a gru-based
+  deep learning approach.
+\newblock \emph{IET Intelligent Transport Systems}, 2018.
+\newblock URL
+  \url{http://digital-library.theiet.org/content/journals/10.1049/iet-its.2017.0313}.
+
+\bibitem[Zhao et~al.(2017)Zhao, Chen, Wu, Chen, and Liu]{zhao2017lstm}
+Zheng Zhao, Weihai Chen, Xingming Wu, Peter~CY Chen, and Jingmeng Liu.
+\newblock Lstm network: a deep learning approach for short-term traffic
+  forecast.
+\newblock \emph{IET Intelligent Transport Systems}, 11\penalty0 (2):\penalty0
+  68--75, 2017.
+\newblock URL
+  \url{http://digital-library.theiet.org/content/journals/10.1049/iet-its.2016.0208}.
+
+\bibitem[Zheng et~al.(2006)Zheng, Lee, and Shi]{zheng2006short}
+Weizhong Zheng, Der-Horng Lee, and Qixin Shi.
+\newblock Short-term freeway traffic flow prediction: Bayesian combined neural
+  network approach.
+\newblock \emph{Journal of transportation engineering}, 132\penalty0
+  (2):\penalty0 114--121, 2006.
+\newblock URL
+  \url{https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-947X(2006)132:2(114)}.
+
+\end{thebibliography}

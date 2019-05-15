@@ -1,0 +1,1786 @@
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.22)  15 MAY 2019 20:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/03/05 L3 programming layer (loader) 
+
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/03/05 L3 programming layer (code)
+\c_max_int=\count88
+\l_tmpa_int=\count89
+\l_tmpb_int=\count90
+\g_tmpa_int=\count91
+\g_tmpb_int=\count92
+\g__intarray_font_int=\count93
+\g__prg_map_int=\count94
+\c_log_iow=\count95
+\l_iow_line_count_int=\count96
+\l__iow_line_target_int=\count97
+\l__iow_one_indent_int=\count98
+\l__iow_indent_int=\count99
+\c_zero_dim=\dimen103
+\c_max_dim=\dimen104
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\g_tmpa_dim=\dimen107
+\g_tmpb_dim=\dimen108
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count100
+\c__fp_leading_shift_int=\count101
+\c__fp_middle_shift_int=\count102
+\c__fp_trailing_shift_int=\count103
+\c__fp_big_leading_shift_int=\count104
+\c__fp_big_middle_shift_int=\count105
+\c__fp_big_trailing_shift_int=\count106
+\c__fp_Bigg_leading_shift_int=\count107
+\c__fp_Bigg_middle_shift_int=\count108
+\c__fp_Bigg_trailing_shift_int=\count109
+\l__sort_length_int=\count110
+\l__sort_min_int=\count111
+\l__sort_top_int=\count112
+\l__sort_max_int=\count113
+\l__sort_true_max_int=\count114
+\l__sort_block_int=\count115
+\l__sort_begin_int=\count116
+\l__sort_end_int=\count117
+\l__sort_A_int=\count118
+\l__sort_B_int=\count119
+\l__sort_C_int=\count120
+\l__tl_build_start_index_int=\count121
+\l__tl_build_index_int=\count122
+\l__tl_analysis_normal_int=\count123
+\l__tl_analysis_index_int=\count124
+\l__tl_analysis_nesting_int=\count125
+\l__tl_analysis_type_int=\count126
+\l__regex_internal_a_int=\count127
+\l__regex_internal_b_int=\count128
+\l__regex_internal_c_int=\count129
+\l__regex_balance_int=\count130
+\l__regex_group_level_int=\count131
+\l__regex_mode_int=\count132
+\c__regex_cs_in_class_mode_int=\count133
+\c__regex_cs_mode_int=\count134
+\l__regex_catcodes_int=\count135
+\l__regex_default_catcodes_int=\count136
+\c__regex_catcode_L_int=\count137
+\c__regex_catcode_O_int=\count138
+\c__regex_catcode_A_int=\count139
+\c__regex_all_catcodes_int=\count140
+\l__regex_show_lines_int=\count141
+\l__regex_min_state_int=\count142
+\l__regex_max_state_int=\count143
+\l__regex_left_state_int=\count144
+\l__regex_right_state_int=\count145
+\l__regex_capturing_group_int=\count146
+\l__regex_min_pos_int=\count147
+\l__regex_max_pos_int=\count148
+\l__regex_curr_pos_int=\count149
+\l__regex_start_pos_int=\count150
+\l__regex_success_pos_int=\count151
+\l__regex_curr_char_int=\count152
+\l__regex_curr_catcode_int=\count153
+\l__regex_last_char_int=\count154
+\l__regex_case_changed_char_int=\count155
+\l__regex_curr_state_int=\count156
+\l__regex_step_int=\count157
+\l__regex_min_active_int=\count158
+\l__regex_max_active_int=\count159
+\l__regex_replacement_csnames_int=\count160
+\l__regex_match_count_int=\count161
+\l__regex_min_submatch_int=\count162
+\l__regex_submatch_int=\count163
+\l__regex_zeroth_submatch_int=\count164
+\g__regex_trace_regex_int=\count165
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+\l__box_top_dim=\dimen109
+\l__box_bottom_dim=\dimen110
+\l__box_left_dim=\dimen111
+\l__box_right_dim=\dimen112
+\l__box_top_new_dim=\dimen113
+\l__box_bottom_new_dim=\dimen114
+\l__box_left_new_dim=\dimen115
+\l__box_right_new_dim=\dimen116
+\l__box_internal_box=\box31
+\l__coffin_internal_box=\box32
+\l__coffin_internal_dim=\dimen117
+\l__coffin_offset_x_dim=\dimen118
+\l__coffin_offset_y_dim=\dimen119
+\l__coffin_x_dim=\dimen120
+\l__coffin_y_dim=\dimen121
+\l__coffin_x_prime_dim=\dimen122
+\l__coffin_y_prime_dim=\dimen123
+\c_empty_coffin=\box33
+\l__coffin_aligned_coffin=\box34
+\l__coffin_aligned_internal_coffin=\box35
+\l_tmpa_coffin=\box36
+\l_tmpb_coffin=\box37
+\l__coffin_display_coffin=\box38
+\l__coffin_display_coord_coffin=\box39
+\l__coffin_display_pole_coffin=\box40
+\l__coffin_display_offset_dim=\dimen124
+\l__coffin_display_x_dim=\dimen125
+\l__coffin_display_y_dim=\dimen126
+\l__coffin_bounding_shift_dim=\dimen127
+\l__coffin_left_corner_dim=\dimen128
+\l__coffin_right_corner_dim=\dimen129
+\l__coffin_bottom_corner_dim=\dimen130
+\l__coffin_top_corner_dim=\dimen131
+\l__coffin_scaled_total_height_dim=\dimen132
+\l__coffin_scaled_width_dim=\dimen133
+)
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count166
+))
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count167
+\g__xparse_grabber_int=\count168
+\l__xparse_m_args_int=\count169
+\l__xparse_mandatory_args_int=\count170
+\l__xparse_v_nesting_int=\count171
+)
+Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count172
+\l__fontspec_language_int=\count173
+\l__fontspec_strnum_int=\count174
+\l__fontspec_tmp_int=\count175
+\l__fontspec_em_int=\count176
+\l__fontspec_emdef_int=\count177
+\l__fontspec_strong_int=\count178
+\l__fontspec_strongdef_int=\count179
+\l__fontspec_tmpa_dim=\dimen134
+\l__fontspec_tmpb_dim=\dimen135
+\l__fontspec_tmpc_dim=\dimen136
+\g__file_internal_ior=\read1
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 542.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 546.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 550.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 554.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 558.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 562.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 570.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 574.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 578.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 582.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeature with sig. 'm' on line 594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 598.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 602.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 606.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 610.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 614.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 618.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 622.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 626.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 630.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 634.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3632.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3638.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3644.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3650.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3656.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3681.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3687.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareAccent with sig. 'm' on line 3693.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareCommand with sig. 'm' on line 3699.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3706.
+.................................................
+
+(c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3891.
+LaTeX Info: Redefining \slshape on input line 3896.
+LaTeX Info: Redefining \scshape on input line 3901.
+LaTeX Info: Redefining \upshape on input line 3906.
+LaTeX Info: Redefining \em on input line 3936.
+LaTeX Info: Redefining \emph on input line 3961.
+LaTeX Info: Redefining \- on input line 4015.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 4110.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 4114.
+.................................................
+))
+\g__fontspec_family_TimesNewRoman_int=\count180
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'TimesNewRoman(0)' created for font 'Times New Roman' with
+. options [Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"Times New
+. Roman/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+. Roman/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.: <->"Times New
+. Roman/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Times New
+. Roman/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.: <->"Times New
+. Roman/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Times New
+. Roman/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold italic' (bx/it) with NFSS spec.: <->"Times New
+. Roman/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Times New
+. Roman/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+.................................................
+LaTeX Info: Redefining \rmfamily on input line 4.
+
+(c:/texlive/2018/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+) (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen137
+))
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen138
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count181
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count182
+\leftroot@=\count183
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count184
+\DOTSCASE@=\count185
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box41
+\strutbox@=\box42
+\big@size=\dimen139
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count186
+\c@MaxMatrixCols=\count187
+\dotsspace@=\muskip16
+\c@parentequation=\count188
+\dspbrk@lvl=\count189
+\tag@help=\toks17
+\row@=\count190
+\column@=\count191
+\maxfields@=\count192
+\andhelp@=\toks18
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks26
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+)
+(c:/texlive/2018/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip55
+\@affilsep=\skip56
+\c@Maxaffil=\count193
+\c@authors=\count194
+\c@affil=\count195
+)
+(c:/texlive/2018/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count196
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip57
+
+(c:/texlive/2018/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count197
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip58
+\skiplinenumber=\skip59
+\skiprule=\skip60
+\skiphlne=\skip61
+\skiptext=\skip62
+\skiplength=\skip63
+\algomargin=\skip64
+\skipalgocfslide=\skip65
+\algowidth=\dimen146
+\inoutsize=\dimen147
+\inoutindent=\dimen148
+\interspacetitleruled=\dimen149
+\interspacealgoruled=\dimen150
+\interspacetitleboxruled=\dimen151
+\algocf@ruledwidth=\skip66
+\algocf@inoutbox=\box43
+\algocf@inputbox=\box44
+\AlCapSkip=\skip67
+\AlCapHSkip=\skip68
+\algoskipindent=\skip69
+\algocf@nlbox=\box45
+\algocf@hangingbox=\box46
+\algocf@untilbox=\box47
+\algocf@skipuntil=\skip70
+\algocf@capbox=\box48
+\algocf@lcaptionbox=\skip71
+\algoheightruledefault=\skip72
+\algoheightrule=\skip73
+\algotitleheightruledefault=\skip74
+\algotitleheightrule=\skip75
+\c@algocfline=\count198
+\c@algocfproc=\count199
+\c@algocf=\count266
+\algocf@algoframe=\box49
+\algocf@algobox=\box50
+)
+\c@theorem=\count267
+
+(c:/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+(c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen152
+\Hy@linkcounter=\count268
+\Hy@pagecounter=\count269
+
+(c:/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count270
+
+(c:/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count271
+
+(c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen153
+\Fld@menulength=\count272
+\Field@Width=\dimen154
+\Fld@charsize=\dimen155
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring ON on input line 6387.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count273
+\c@Item=\count274
+\c@Hfootnote=\count275
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(c:/texlive/2018/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2018/02/06 v6.86b Hyperref driver for XeTeX
+
+(c:/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
+)
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box51
+\c@Hy@AnnotLevel=\count276
+\HyField@AnnotCount=\count277
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
+
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip76
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip77
+\LTright=\skip78
+\LTpre=\skip79
+\LTpost=\skip80
+\LTchunksize=\count280
+\LTcapwidth=\dimen156
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@cols=\count281
+\LT@rows=\count282
+\c@LT@tables=\count283
+\c@LT@chunks=\count284
+\LT@p@ftn=\toks29
+)
+(c:/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip81
+\multirow@cntb=\count285
+\multirow@dima=\skip82
+\bigstrutjot=\dimen157
+)
+(c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks30
+\float@box=\box56
+\@float@everytoks=\toks31
+\@floatcapt=\box57
+)
+(c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip83
+\subfigcapskip=\skip84
+\subfigcaptopadj=\dimen158
+\subfigbottomskip=\skip85
+\subfigcapmargin=\dimen159
+\subfiglabelskip=\skip86
+\c@subfigure=\count287
+\c@lofdepth=\count288
+\c@subtable=\count289
+\c@lotdepth=\count290
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip87
+\subfig@bottom=\skip88
+)
+(c:/texlive/2018/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count291
+\c@@ppsavesec=\count292
+\c@@ppsaveapp=\count293
+)
+(c:/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count294
+\@cmidlb=\count295
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count296
+\@lastruleclass=\count297
+\@thisrulewidth=\dimen172
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen173
+\Gin@req@width=\dimen174
+)
+(c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
+\Gm@bindingoffset=\dimen175
+\Gm@wd@mp=\dimen176
+\Gm@odd@mp=\dimen177
+\Gm@even@mp=\dimen178
+\Gm@layoutwidth=\dimen179
+\Gm@layoutheight=\dimen180
+\Gm@layouthoffset=\dimen181
+\Gm@layoutvoffset=\dimen182
+\Gm@dimlist=\toks32
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+)
+(c:/texlive/2018/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip89
+\bibsep=\skip90
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count301
+)
+(c:/texlive/2018/texmf-dist/tex/latex/abstract/abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip91
+\absleftindent=\skip92
+\absrightindent=\skip93
+\absparindent=\skip94
+\absparsep=\skip95
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks33
+\verbatim@line=\toks34
+\verbatim@in@stream=\read2
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 60.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 60.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 60.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 60.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 60.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 60.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 60.
+LaTeX Font Info:    Redeclaring math accent \check on input line 60.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 60.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 60.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 60.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 60.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 60.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 6
+0.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 60.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+60.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 60.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 60.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/bx/n on input line
+ 60.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 60.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 60.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/bx/n on
+ input line 60.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/bx/it on input li
+ne 60.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 60.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 60.
+\AtBeginShipoutBox=\box58
+Package hyperref Info: Link coloring ON on input line 60.
+
+(c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count302
+)
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
+
+(./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 71.
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 71.
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+) [1
+
+
+]
+Underfull \hbox (badness 1107) in paragraph at lines 102--104
+[]\TU/TimesNewRoman(0)/m/n/9 Parametric methods such as ARIMA ([][]Ahmed and Co
+ok[][],
+ []
+
+[2]
+Underfull \vbox (badness 1297) has occurred while \output is active []
+
+File: fig/common_NN.pdf Graphic file (type pdf)
+<use fig/common_NN.pdf>
+ [3]
+File: fig/residual_NN.pdf Graphic file (type pdf)
+<use fig/residual_NN.pdf>
+File: fig/improved_NN.pdf Graphic file (type pdf)
+<use fig/improved_NN.pdf>
+
+[4]
+File: fig/Steps.pdf Graphic file (type pdf)
+<use fig/Steps.pdf>
+
+Overfull \hbox (24.3789pt too wide) detected at line 277
+\OML/cmm/m/it/9 scaled[]X \OT1/cmr/m/n/9 = [] \OML/cmm/m/it/9 scaled[]Y \OT1/cm
+r/m/n/9 = []
+ []
+
+[5]
+File: Figure/layers.pdf Graphic file (type pdf)
+<use Figure/layers.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figure/Box_Mape.pdf Graphic file (type pdf)
+<use Figure/Box_Mape.pdf>
+File: Figure/Box_RMSE.pdf Graphic file (type pdf)
+<use Figure/Box_RMSE.pdf>
+File: Figure/Box_MAE.pdf Graphic file (type pdf)
+<use Figure/Box_MAE.pdf>
+[6] [7]
+File: Figure/goodOne.pdf Graphic file (type pdf)
+<use Figure/goodOne.pdf>
+File: Figure/badOne.pdf Graphic file (type pdf)
+<use Figure/badOne.pdf>
+File: Figure/pre.pdf Graphic file (type pdf)
+<use Figure/pre.pdf>
+
+Underfull \vbox (badness 3471) has occurred while \output is active []
+
+ [8]
+Underfull \hbox (badness 1484) in paragraph at lines 506--507
+[]\TU/TimesNewRoman(0)/m/n/9 In the following discussion, our analysis was cond
+ucted
+ []
+
+File: Figure/MAPE-BOX-DARK.pdf Graphic file (type pdf)
+<use Figure/MAPE-BOX-DARK.pdf>
+File: Figure/RMSE-BOX-DARK.pdf Graphic file (type pdf)
+<use Figure/RMSE-BOX-DARK.pdf>
+File: Figure/MAE-BOX-DARK.pdf Graphic file (type pdf)
+<use Figure/MAE-BOX-DARK.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+File: Figure/Bound.pdf Graphic file (type pdf)
+<use Figure/Bound.pdf>
+
+[10] [11] (./main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 15--22
+[][]$[][][][] [] [] [] [][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][]
+[][][][] [] [][][] [] [][][][] []
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 33--39
+[]\TU/TimesNewRoman(0)/m/n/9 M.ASCE Billy M. Williams and F.ASCE Lester A. Hoel
+.
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 33--39
+\TU/TimesNewRoman(0)/m/n/9 Modeling and forecasting vehicular traffic flow as a
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--39
+\TU/TimesNewRoman(0)/m/n/9 seasonal arima process: Theoretical basis and em-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--39
+\TU/TimesNewRoman(0)/m/n/9 pirical results.  \TU/TimesNewRoman(0)/m/it/9 J.Tran
+sport. Eng.\TU/TimesNewRoman(0)/m/n/9 , 2003.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--39
+[][]$[][][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [][][] [] [][][] [
+] [][] [] [][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
+\TU/TimesNewRoman(0)/m/n/9 learning-based crack damage detection using convo-
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 52--58
+\TU/TimesNewRoman(0)/m/n/9 lutional neural networks.  \TU/TimesNewRoman(0)/m/it
+/9 Computer-Aided Civil and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
+[][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][] [] [][][] [] 
+[][][] [] [][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 79--85
+\TU/TimesNewRoman(0)/m/n/9 ing for short-term traffic flow forecasting.  \TU/Ti
+mesNewRoman(0)/m/it/9 Transporta-
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 79--85
+\TU/TimesNewRoman(0)/m/it/9 tion Research Part C: Emerging Technologies\TU/Time
+sNewRoman(0)/m/n/9 , 9(5):319–
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 79--85
+\TU/TimesNewRoman(0)/m/n/9 336, 2001.  URL [][]$[][][][][] [] [] [] [][][] [] [
+][][][][][][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 113--119
+[]\TU/TimesNewRoman(0)/m/n/9 Steven Chien, Xiaobo Liu, and Kaan Ozbay.  Predict
+ing
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 113--119
+\TU/TimesNewRoman(0)/m/it/9 nal of the Transportation Research Board\TU/TimesNe
+wRoman(0)/m/n/9 , (1855):32–40,
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 121--127
+[]\TU/TimesNewRoman(0)/m/n/9 Steven I-Jy Chien and Chandra Mouly Kuchipudi.  Dy
+-
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 121--127
+\TU/TimesNewRoman(0)/m/n/9 namic travel time prediction with real-time and hist
+oric
+ []
+
+[12]
+Underfull \hbox (badness 3965) in paragraph at lines 137--143
+[]\TU/TimesNewRoman(0)/m/n/9 G. A. Davis and N. L. Nihan.  Nonparametric regres
+-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 137--143
+\TU/TimesNewRoman(0)/m/it/9 of Transportation Engineering\TU/TimesNewRoman(0)/m
+/n/9 , vol.117(no.2):pp.178–188,
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 137--143
+\TU/TimesNewRoman(0)/m/n/9 1991.  URL [][]$[][][][][] [] [] [] [][][][][][][][]
+[][][] [] [][][] [] [][][] [] [][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 167--172
+\TU/TimesNewRoman(0)/m/it/9 tems\TU/TimesNewRoman(0)/m/n/9 , 2017.  URL [][]$[]
+[][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 7415) in paragraph at lines 174--179
+[]\TU/TimesNewRoman(0)/m/n/9 Yuqing Gao and Khalid M Mosalam.  Deep transfer
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 174--179
+\TU/TimesNewRoman(0)/m/n/9 learning for image-based structural damage recogniti
+on.
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 181--188
+[]\TU/TimesNewRoman(0)/m/n/9 Bidisha Ghosh, Biswajit Basu, and Margaret O’Mahon
+y.
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 181--188
+\TU/TimesNewRoman(0)/m/n/9 Random process model for urban traffic flow using a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--188
+\TU/TimesNewRoman(0)/m/n/9 URL [][]$[][][][][] [] [] [] [][][][][][][][][][][][
+][] [] [][][][][] [] [][][] [] [][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 190--197
+[]\TU/TimesNewRoman(0)/m/n/9 Jianhua Guo, Wei Huang, and Billy M Williams.  Ada
+p-
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 190--197
+\TU/TimesNewRoman(0)/m/it/9 portation Research Part C: Emerging Technologies\TU
+/TimesNewRoman(0)/m/n/9 , 43:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--218
+[][][] [] [][][][][][][] [] [][][][] [] [][][][] [] [][][][][][] [] [][] [] [][
+][][] [] [][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 251--258
+\TU/TimesNewRoman(0)/m/n/9 ferences, similarities and some insights.  \TU/Times
+NewRoman(0)/m/it/9 Transportation
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 260--266
+\TU/TimesNewRoman(0)/m/it/9 tems\TU/TimesNewRoman(0)/m/n/9 , vol. 28:pp. 2222 –
+ 2232, 2017.  URL [][]$[][][][][] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--274
+[]\TU/TimesNewRoman(0)/m/n/9 Caglar Gulcehre Fethi Bougares Holger Schwenk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--274
+\TU/TimesNewRoman(0)/m/n/9 Kyunghyun Cho, Bart van Merrienboer and Yoshua
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--274
+\TU/TimesNewRoman(0)/m/n/9 Bengio.  Learning phrase representations using
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--274
+\TU/TimesNewRoman(0)/m/n/9 rnn encoder-decoder for statistical machine transla-
+
+ []
+
+
+Underfull \hbox (badness 3158) in paragraph at lines 268--274
+\TU/TimesNewRoman(0)/m/n/9 tion.  \TU/TimesNewRoman(0)/m/it/9 arXiv preprint\TU
+/TimesNewRoman(0)/m/n/9 , arXiv:1406.1078, 2014.  URL
+ []
+
+[13]
+Underfull \hbox (badness 2020) in paragraph at lines 310--316
+[]\TU/TimesNewRoman(0)/m/n/9 Ruimin Li and Geoffrey Rose.  Incorporating uncert
+ainty
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 318--323
+[]\TU/TimesNewRoman(0)/m/n/9 Ruoxing Li, Yachao Yuan, Wei Zhang, and Yali Yuan.
+
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 318--323
+\TU/TimesNewRoman(0)/m/n/9 Unified vision-based methodology for simultaneous co
+n-
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 318--323
+\TU/TimesNewRoman(0)/m/n/9 crete defect detection and geolocalization.  \TU/Tim
+esNewRoman(0)/m/it/9 Computer-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--323
+[][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][] [] [][][] [] 
+[][][] [] [][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 325--331
+[]\TU/TimesNewRoman(0)/m/n/9 Yi-zhou Lin, Zhen-hua Nie, and Hong-wei Ma.  Struc
+-
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 325--331
+\TU/TimesNewRoman(0)/m/n/9 tural damage detection with automatic feature-extrac
+tion
+ []
+
+
+Underfull \hbox (badness 2512) in paragraph at lines 325--331
+\TU/TimesNewRoman(0)/m/n/9 through deep learning.  \TU/TimesNewRoman(0)/m/it/9 
+Computer-Aided Civil and In-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--331
+[][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][] [] [][][] [] 
+[][][] [] [][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 340--346
+[]\TU/TimesNewRoman(0)/m/n/9 Yisheng Lv, Yanjie Duan, Wenwen Kang, Zhengxi Li,
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 340--346
+\TU/TimesNewRoman(0)/m/n/9 Fei-Yue Wang, et al.  Traffic flow prediction with b
+ig
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 340--346
+\TU/TimesNewRoman(0)/m/n/9 data: A deep learning approach.  \TU/TimesNewRoman(0
+)/m/it/9 IEEE Trans. Intelli-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--346
+[][]$[][][][][] [] [] [] [][][][][][][][][][] [] [][][][] [] [][][] [] [][][][]
+[] [] [][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--383
+[]\TU/TimesNewRoman(0)/m/n/9 Vassilios Petridis, Athanasios Kehagias, Loukas Pe
+trou,
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 376--383
+\TU/TimesNewRoman(0)/m/n/9 A Bakirtzis, S Kiartzis, H Panagiotou, and N Maslari
+s.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--383
+\TU/TimesNewRoman(0)/m/n/9 A bayesian multiple models combination method
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--383
+\TU/TimesNewRoman(0)/m/n/9 for time series prediction.  \TU/TimesNewRoman(0)/m/
+it/9 Journal of intelligent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--383
+\TU/TimesNewRoman(0)/m/it/9 and robotic systems\TU/TimesNewRoman(0)/m/n/9 , 31(
+1-3):69–89, 2001.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--383
+[][]$[][][][][] [] [] [] [][][][] [] [][][][][][][][] [] [][][] [] [][][][][][]
+[] [] [][] [] [][][][] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--390
+[]\TU/TimesNewRoman(0)/m/n/9 Jurgen Schmidhuber Sepp Hochreiter.  Long short-
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 385--390
+\TU/TimesNewRoman(0)/m/n/9 term memory.  \TU/TimesNewRoman(0)/m/it/9 Neural Com
+putation\TU/TimesNewRoman(0)/m/n/9 , 1997.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--390
+[][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][] [] [][][] [
+] [][][] [] [][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 392--399
+[]\TU/TimesNewRoman(0)/m/n/9 Brian L Smith, Billy M Williams, and R Keith Oswal
+d.
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 392--399
+\TU/TimesNewRoman(0)/m/n/9 Comparison of parametric and nonparametric models fo
+r
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 392--399
+\TU/TimesNewRoman(0)/m/n/9 traffic flow forecasting.  \TU/TimesNewRoman(0)/m/it
+/9 Transportation Research Part
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 392--399
+\TU/TimesNewRoman(0)/m/it/9 C: Emerging Technologies\TU/TimesNewRoman(0)/m/n/9 
+, 10(4):303–321, 2002.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--399
+[][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][]
+[][][][][] [] [][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--423
+[]\TU/TimesNewRoman(0)/m/n/9 Antony Stathopoulos, Loukas Dimitriou, and Theodor
+e
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 416--423
+\TU/TimesNewRoman(0)/m/n/9 Tsekeris.  Fuzzy modeling approach for combined fore
+-
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 416--423
+\TU/TimesNewRoman(0)/m/it/9 Infrastructure Engineering\TU/TimesNewRoman(0)/m/n/
+9 , 23(7):521–535, 2008.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--423
+[][]$[][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][][][] [] [][][] [] 
+[][][] [] [][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 425--433
+[]\TU/TimesNewRoman(0)/m/n/9 Shiliang Sun, Changshui Zhang, and Guoqiang Yu.  A
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--433
+\TU/TimesNewRoman(0)/m/n/9 bayesian network approach to traffic flow forecast-
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 425--433
+\TU/TimesNewRoman(0)/m/n/9 ing.  \TU/TimesNewRoman(0)/m/it/9 IEEE Transactions 
+on Intelligent Transportation
+ []
+
+
+Underfull \hbox (badness 7451) in paragraph at lines 425--433
+\TU/TimesNewRoman(0)/m/it/9 Systems\TU/TimesNewRoman(0)/m/n/9 , 7(1):124–132, M
+arch 2006a.  ISSN 1524-
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 425--433
+\TU/TimesNewRoman(0)/m/n/9 9050.  doi: $[][] [] [][][][] [] [][][][] [] [][][][
+] [] [][][][][][]$.  URL [][]$[][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--433
+[] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][
+][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--433
+[][][][][][] [] [][][][][][][][][][][] [] [][][][][][][] [] [] [] [][][][][][][
+][] [] [][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--433
+[][][][][][][][] [] [][] [] [][][][][][][] [] [][][][] [] [][][][][][][][][][][
+] [] [][][][][] []
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 435--441
+[]\TU/TimesNewRoman(0)/m/n/9 Shiliang Sun, Changshui Zhang, and Guoqiang Yu.  A
+
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 435--441
+\TU/TimesNewRoman(0)/m/it/9 Transactions on intelligent transportation systems\
+TU/TimesNewRoman(0)/m/n/9 , 7(1):
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--441
+[][][][][][][] [] [][][][][][][][][] [] [][][][][][] [] [][][][][][][][][][][] 
+[] [][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--441
+[] [] [][][][][][][][] [] [][][][][][][] [] [][][][][][][][] [] [][] [] [][][][
+][][][] [] [][][][] []
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 443--450
+[]\TU/TimesNewRoman(0)/m/n/9 Huachun Tan, Guangdong Feng, Jianshuai Feng, Wuhon
+g
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 443--450
+\TU/TimesNewRoman(0)/m/n/9 Wang, Yu-Jin Zhang, and Feng Li.  A tensor-based
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 443--450
+\TU/TimesNewRoman(0)/m/it/9 tion Research Part C: Emerging Technologies\TU/Time
+sNewRoman(0)/m/n/9 , 28:15–
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 443--450
+\TU/TimesNewRoman(0)/m/n/9 27, 2013.  URL [][]$[][][][][] [] [] [] [][][] [] []
+[][][][][][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 452--456
+\TU/TimesNewRoman(0)/m/n/9 2016.  URL [][]$[][][][][] [] [] [] [][][][][][][][]
+[][][] [] [][][] [] [][][] [] [][][] [] [][] []
+ []
+
+[14]
+Underfull \hbox (badness 1226) in paragraph at lines 463--469
+\TU/TimesNewRoman(0)/m/it/9 (SmartCity)\TU/TimesNewRoman(0)/m/n/9 , page pp. 15
+3–158, 2015.  URL [][]$[][][][][] [] [] []
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 485--492
+[]\TU/TimesNewRoman(0)/m/n/9 Eleni I Vlahogianni, Matthew G Karlaftis, and John
+ C
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 485--492
+\TU/TimesNewRoman(0)/m/n/9 Golias.  Temporal evolution of short-term urban traf
+-
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 485--492
+\TU/TimesNewRoman(0)/m/n/9 fic flow: a nonlinear dynamics approach.  \TU/TimesN
+ewRoman(0)/m/it/9 Computer-
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 494--501
+[]\TU/TimesNewRoman(0)/m/n/9 Jian Wang, Wei Deng, and Yuntao Guo.  New bayesian
+
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 503--510
+[]\TU/TimesNewRoman(0)/m/n/9 Yibing Wang, Markos Papageorgiou, and Albert Messm
+er.
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 512--518
+[]\TU/TimesNewRoman(0)/m/n/9 Billy Williams.  Multivariate vehicular traffic fl
+ow pre-
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 512--518
+\TU/TimesNewRoman(0)/m/n/9 diction: evaluation of arimax modeling.  \TU/TimesNe
+wRoman(0)/m/it/9 Transporta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--518
+\TU/TimesNewRoman(0)/m/it/9 tion Research Record: Journal of the Transporta-
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 512--518
+\TU/TimesNewRoman(0)/m/it/9 tion Research Board\TU/TimesNewRoman(0)/m/n/9 , (17
+76):194–200, 2001.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--518
+[][]$[][][][][] [] [] [] [][][][][][][][][][][][][][][][] [] [][][] [] [][][] [
+] [][][] [] [][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 7433) in paragraph at lines 520--527
+\TU/TimesNewRoman(0)/m/it/9 portation engineering\TU/TimesNewRoman(0)/m/n/9 , 1
+29(6):664–672, 2003.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--527
+[][]$[][][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [][][] [] [][][] [
+] [][] [] [][][][] [] [][][][][] []
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 529--534
+[]\TU/TimesNewRoman(0)/m/n/9 Chun-Hsin Wu, Jan-Ming Ho, and Der-Tsai Lee.  Trav
+el-
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 536--542
+[]\TU/TimesNewRoman(0)/m/n/9 Yuankai Wu, Huachun Tan, Yong Li, Feng Li, and Hon
+g-
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 536--542
+\TU/TimesNewRoman(0)/m/n/9 distribution and its applications.  \TU/TimesNewRoma
+n(0)/m/it/9 Neurocomputing\TU/TimesNewRoman(0)/m/n/9 , 223:
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 544--551
+[]\TU/TimesNewRoman(0)/m/n/9 Yuankai Wu, Huachun Tan, Lingqiao Qin, Bin Ran, an
+d
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 544--551
+\TU/TimesNewRoman(0)/m/n/9 prediction method and its understanding.  \TU/TimesN
+ewRoman(0)/m/it/9 Transporta-
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 544--551
+\TU/TimesNewRoman(0)/m/it/9 tion Research Part C: Emerging Technologies\TU/Time
+sNewRoman(0)/m/n/9 , 90:166–
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 544--551
+\TU/TimesNewRoman(0)/m/n/9 180, 2018.  URL [][]$[][][][][] [] [] [] [][][] [] [
+][][][][][][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 568--574
+\TU/TimesNewRoman(0)/m/n/9 belief echo-state network and its application to tim
+e se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--574
+[][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][]
+[][][][][] [] [][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 607--613
+\TU/TimesNewRoman(0)/m/n/9 ing approach.  \TU/TimesNewRoman(0)/m/it/9 IET Intel
+ligent Transport Systems\TU/TimesNewRoman(0)/m/n/9 , 2018.
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 615--622
+\TU/TimesNewRoman(0)/m/n/9 and Jingmeng Liu.  Lstm network: a deep learning
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 615--622
+\TU/TimesNewRoman(0)/m/n/9 approach for short-term traffic forecast.  \TU/Times
+NewRoman(0)/m/it/9 IET Intel-
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 615--622
+\TU/TimesNewRoman(0)/m/it/9 ligent Transport Systems\TU/TimesNewRoman(0)/m/n/9 
+, 11(2):68–75, 2017.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--622
+[][]$[][][][] [] [] [] [][][][][][][][][][][][][][][][] [] [][][][][][] [] [][]
+[] [] [][][][][][][] []
+ []
+
+[15]
+Underfull \hbox (badness 1394) in paragraph at lines 624--631
+[]\TU/TimesNewRoman(0)/m/n/9 Weizhong Zheng, Der-Horng Lee, and Qixin Shi.  Sho
+rt-
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 624--631
+\TU/TimesNewRoman(0)/m/n/9 term freeway traffic flow prediction: Bayesian com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--631
+\TU/TimesNewRoman(0)/m/n/9 bined neural network approach.  \TU/TimesNewRoman(0)
+/m/it/9 Journal of trans-
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 624--631
+\TU/TimesNewRoman(0)/m/it/9 portation engineering\TU/TimesNewRoman(0)/m/n/9 , 1
+32(2):114–121, 2006.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--631
+[][]$[][][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [][][] [] [][][] [
+] [][] [] [][][][] [] [][][][][] []
+ []
+
+)
+Overfull \hbox (38.65735pt too wide) in paragraph at lines 695--695
+[]\TU/TimesNewRoman(0)/bx/n/10 Algorithm 3: \TU/TimesNewRoman(0)/m/n/10 inverse
+Difference($\OML/cmm/m/it/10 historyData; []; interval$\TU/TimesNewRoman(0)/m/n
+/10 ) 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 756.
+[16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 756.
+ (./main.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 756.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 756.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: B7CD1F33576744CFFF171D175F168271.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 756.
+ ) 
+Here is how much of TeX's memory you used:
+ 21821 strings out of 492970
+ 405155 string characters out of 6137298
+ 548861 words of memory out of 5000000
+ 25611 multiletter control sequences out of 15000+600000
+ 538769 words of font info for 86 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 39i,12n,65p,10419b,582s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.pdf (16 pages).
