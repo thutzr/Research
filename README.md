@@ -5,4 +5,4 @@ This is a repo to store the codes for all my researches.
 * [Incident](Incident)
 * [Ridesharing](Ridesharing)
 * [Paper](Paper)
-    * [Dynamic](Dynamic)
+    * [Dynamic](Paper/Dynamic)
